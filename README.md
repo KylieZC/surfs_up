@@ -1,9 +1,9 @@
 # surfs_up
 
-## Overview of the analysis
+## Overview
 W.avy is willing to open a surf shop in Oahu, a beautiful tourist place. This analysis determines if the shop is beneficial to locating here year-round based on temperature data for June and December in Oahu.
 
-## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+## Results
 
 First, the most suitable temperature for surfing is between 55.4°F to 75.2°F. Oahu meets these conditions based on the June and December temperature records. It has a minimum temperature of 56°F and a maximum of 85°F.
 
