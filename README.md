@@ -6,8 +6,8 @@ W.avy is willing to open a surf shop in Oahu, a beautiful tourist place. This an
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
 First, the most suitable temperature for surfing is between 55.4°F to 75.2°F. Oahu meets these conditions based on the June and December temperature records. It has a minimum temperature of 56°F and a maximum of 85°F.
-![june](resources/june.png)
-![dec](resources/dec.png)
+
+![june](resources/june.png) ![dec](resources/dec.png)
 
 Second,
 June and December these two period shows a slight fluctuation. December has an average of 71°F, which may influent the ice cream sale. However, December has a more significant standard deviation than June. Therefore, it may have more variation in the December temperature. 
