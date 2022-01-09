@@ -14,8 +14,7 @@ June and December these two period shows a slight fluctuation. December has an a
 
 Third,
 From the 12 months-period precipitation data (2016-2017) in Oahu, we notice that Oahu has low-level precipitation with an average of 0.17mm, and the maximum data is 6.7mm. This fact shows the weather has less effect on travellers to surf here!
-![precipitation](resources/precipitation.png)
-![pre](resources/pre.png)
+![precipitation](resources/precipitation.png) ![pre](resources/pre.png)
 
 ## Summary
 Overall, June and December's weather condition is pretty similar. The difference is December has a greater change extent temperature than June. 
