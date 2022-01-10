@@ -19,4 +19,4 @@ From the 12 months-period precipitation data (2016-2017) in Oahu, we notice that
 ## Summary
 Overall, June and December's weather condition is pretty similar. The difference is December has a greater change extent temperature than June. 
 
-We can query more factors to determine if Oahu is suitable for opening a year-round shop, such as Oahu's best location to attract visitors, the product prices on the island, rent price etc.
+We can query more weather factors to determine if Oahu is suitable for opening a year-round shop, such as precipitation and activity of different stations. Also, gathering more other information will be ideal for the analysis—for example, the most attractive location, the product prices on the island, rent price etc.
